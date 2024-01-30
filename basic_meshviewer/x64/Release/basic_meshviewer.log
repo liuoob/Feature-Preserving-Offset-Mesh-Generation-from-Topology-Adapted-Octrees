@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\keyInter\viewerKeyInter.h(39,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\ImpOperS.h(34,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\ImpOperS.h(46,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerCore\viewer.h(67,41): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(44,43): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(29,1): message : 在编译 类 模板 成员函数“void Viewer::CDrawVertices<MeshLib::CTMesh>::impOper(void)”时
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\main.cpp(25,45): message : 查看对正在编译的 类 模板 实例化“Viewer::CDrawVertices<MeshLib::CTMesh>”的引用
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(44,33): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(44,23): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(48,67): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(48,49): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(48,31): warning C4244: “参数”: 从“GLdouble”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(118,1): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(110,1): message : 在编译 类 模板 成员函数“void Viewer::CDrawFaces<MeshLib::CTMesh>::impOper(void)”时
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\main.cpp(24,42): message : 查看对正在编译的 类 模板 实例化“Viewer::CDrawFaces<MeshLib::CTMesh>”的引用
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(86,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(71,1): message : 在编译 类 模板 成员函数“void Viewer::CDrawEdges<MeshLib::CTMesh>::impOper(void)”时
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\main.cpp(23,42): message : 查看对正在编译的 类 模板 实例化“Viewer::CDrawEdges<MeshLib::CTMesh>”的引用
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(85,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(84,52): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(89,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(88,42): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\ShawnZhengXP\Desktop\编程开发框架\zzzlib\basic_meshviewer\viewerDraw\viewerDraw.h(87,52): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码
+  42 of 1298 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  basic_meshviewer.vcxproj -> C:\Users\ShawnZhengXP\Desktop\编程开发框架\basic_meshviewer\x64\Release\basic_meshviewer.exe
